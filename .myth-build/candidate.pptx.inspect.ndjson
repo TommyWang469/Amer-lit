@@ -1,0 +1,104 @@
+{"kind":"deck","id":"pr/lujcmp","name":"Deck"}
+{"kind":"layout","layoutId":"1c9ecfed-d710-4488-aa12-331237c3ed87","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"3289467b-20b3-4962-8ec6-91e23767e0dc","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/c3bo2q","slide":1,"title":"Arthur’s journey","textShapes":2}
+{"kind":"textbox","id":"sh/ixc7u90f","slide":1,"text":"Arthur’s journey","textPreview":"Arthur’s journey","textChars":16,"textLines":1,"bbox":[70,60,820,80]}
+{"kind":"textbox","id":"sh/5036p4z6","slide":1,"text":"Tommy, Koshiro, Will","textPreview":"Tommy, Koshiro, Will","textChars":20,"textLines":1,"bbox":[75,155,820,44]}
+{"kind":"image","id":"im/9cna94j6","slide":1,"name":"","alt":"Brown bear from the original group deck","bbox":[65,245,270,235]}
+{"kind":"image","id":"im/adwri9kr","slide":1,"name":"","alt":"Lion from the original group deck","bbox":[355,240,230,240]}
+{"kind":"image","id":"im/ve5sbe1c","slide":1,"name":"","alt":"Dog from the original group deck","bbox":[620,245,270,235]}
+{"kind":"notes","id":"nt/c3bo2q","slide":1,"text":"Images: reused from the supplied group PowerPoint. Original labels identify Canva, Socosto, and Tsukatte."}
+{"kind":"slide","id":"sl/rddxlm","slide":2,"title":"Part 1","textShapes":4}
+{"kind":"textbox","id":"sh/50fm54re","slide":2,"text":"Part 1","textPreview":"Part 1","textChars":6,"textLines":1,"bbox":[42,25,830,27]}
+{"kind":"textbox","id":"sh/yx43u9sn","slide":2,"text":"Arthur and the world","textPreview":"Arthur and the world","textChars":20,"textLines":1,"bbox":[40,65,880,64]}
+{"kind":"textbox","id":"sh/jyd43u98","slide":2,"text":"Before Earth, the animals lived on a small piece of land in the clouds.","textPreview":"Before Earth, the animals lived on a small piece of land in the clouds.","textChars":71,"textLines":1,"bbox":[42,177,330,210]}
+{"kind":"textbox","id":"sh/tofm9ora","slide":2,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[880,505,40,23]}
+{"kind":"image","id":"im/18v6lwzm","slide":2,"name":"","alt":"Arthur and the world","bbox":[400,140,525,350]}
+{"kind":"notes","id":"nt/rddxlm","slide":2,"text":"Before Earth and humans existed, animals lived on a small piece of land among the clouds. There was only empty space past its edges. Arthur, the god of the sky, lived above them. A flame inside his chest gave him the power to create things. Another god, Varek, wanted that power for himself.\n\nIllustration: AI-generated for this presentation."}
+{"kind":"slide","id":"sl/9xcfmy","slide":3,"title":"Part 1","textShapes":4}
+{"kind":"textbox","id":"sh/kj21cvep","slide":3,"text":"Part 1","textPreview":"Part 1","textChars":6,"textLines":1,"bbox":[42,25,830,27]}
+{"kind":"textbox","id":"sh/jitkjqd4","slide":3,"text":"Varek starts a fight","textPreview":"Varek starts a fight","textChars":20,"textLines":1,"bbox":[40,65,880,64]}
+{"kind":"textbox","id":"sh/ixkjalwj","slide":3,"text":"Varek wanted Arthur’s power, but he couldn’t win the fight.","textPreview":"Varek wanted Arthur’s power, but he couldn’t win the fight.","textChars":59,"textLines":1,"bbox":[42,177,330,210]}
+{"kind":"textbox","id":"sh/wv218bed","slide":3,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[880,505,40,23]}
+{"kind":"image","id":"im/of6l4bah","slide":3,"name":"","alt":"Varek starts a fight","bbox":[425,145,490,330]}
+{"kind":"notes","id":"nt/9xcfmy","slide":3,"text":"One day, Varek challenged Arthur to a fight. They fought above the clouds, and thunder shook the animals’ trees below. Arthur was stronger. Every time Varek attacked, Arthur pushed him back. Varek knew he was about to lose, so he stopped fighting and held up his hands.\n\nImage: reused from the supplied group PowerPoint."}
+{"kind":"slide","id":"sl/dwpwc6","slide":4,"title":"Part 1","textShapes":4}
+{"kind":"textbox","id":"sh/lkje107a","slide":4,"text":"Part 1","textPreview":"Part 1","textChars":6,"textLines":1,"bbox":[42,25,830,27]}
+{"kind":"textbox","id":"sh/yx8v6l8z","slide":4,"text":"The stolen flame","textPreview":"The stolen flame","textChars":16,"textLines":1,"bbox":[40,65,880,64]}
+{"kind":"textbox","id":"sh/zyhwzqpk","slide":4,"text":"“Let’s stop,” Varek said. Arthur believed him.","textPreview":"“Let’s stop,” Varek said. Arthur believed him.","textChars":46,"textLines":1,"bbox":[42,177,330,210]}
+{"kind":"textbox","id":"sh/at8v218n","slide":4,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[880,505,40,23]}
+{"kind":"image","id":"im/lg3ul0vq","slide":4,"name":"","alt":"Varek represented by the thief illustration from the group deck","bbox":[435,153,330,323]}
+{"kind":"image","id":"im/kfutcve5","slide":4,"name":"","alt":"The stolen creation flame","bbox":[760,238,160,180]}
+{"kind":"notes","id":"nt/dwpwc6","slide":4,"text":"“Let’s stop. I don’t want to fight anymore,” Varek said. Arthur believed him and lowered his hands. Varek rushed forward, struck Arthur in the chest, and pulled out the flame. Arthur reached for it, but Varek had already moved away. Without his power, Arthur could no longer fly.\n\nImages: reused from the supplied group PowerPoint. Original labels identify Socosto and IllustCute."}
+{"kind":"slide","id":"sl/1l6mvj","slide":5,"title":"Part 1","textShapes":4}
+{"kind":"textbox","id":"sh/etcrm9sf","slide":5,"text":"Part 1","textPreview":"Part 1","textChars":6,"textLines":1,"bbox":[42,25,830,27]}
+{"kind":"textbox","id":"sh/1w3ax4b6","slide":5,"text":"Arthur falls","textPreview":"Arthur falls","textChars":12,"textLines":1,"bbox":[40,65,880,64]}
+{"kind":"textbox","id":"sh/0vu9ojal","slide":5,"text":"Arthur fell through the clouds and lost his memory.","textPreview":"Arthur fell through the clouds and lost his memory.","textChars":51,"textLines":1,"bbox":[42,177,330,210]}
+{"kind":"textbox","id":"sh/q5sripsj","slide":5,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[880,505,40,23]}
+{"kind":"image","id":"im/yds3mtkj","slide":5,"name":"","alt":"Arthur falls","bbox":[425,145,490,330]}
+{"kind":"notes","id":"nt/1l6mvj","slide":5,"text":"He fell through the clouds like a meteor and crashed onto the animals’ land. The ground shook, and branches broke around him. His body was still strong enough to survive, but he passed out. When he opened his eyes, he couldn’t remember anything, even his name.\n\nImage: reused from the supplied group PowerPoint."}
+{"kind":"slide","id":"sl/e947gf","slide":6,"title":"Part 2","textShapes":4}
+{"kind":"textbox","id":"sh/s7excrix","slide":6,"text":"Part 2","textPreview":"Part 2","textChars":6,"textLines":1,"bbox":[42,25,830,27]}
+{"kind":"textbox","id":"sh/rm5gjmhc","slide":6,"text":"Three animals help","textPreview":"Three animals help","textChars":18,"textLines":1,"bbox":[40,65,880,64]}
+{"kind":"textbox","id":"sh/6lwfah0r","slide":6,"text":"A lion, a bear, and a dog found Arthur.","textPreview":"A lion, a bear, and a dog found Arthur.","textChars":39,"textLines":1,"bbox":[42,177,330,210]}
+{"kind":"textbox","id":"sh/ihcf6h0v","slide":6,"text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[880,505,40,23]}
+{"kind":"image","id":"im/czix8ba9","slide":6,"name":"","alt":"Lion who finds Arthur","bbox":[400,182,165,226]}
+{"kind":"image","id":"im/d0ryhwbu","slide":6,"name":"","alt":"Bear who helps Arthur","bbox":[580,205,160,175]}
+{"kind":"image","id":"im/qx0f61sj","slide":6,"name":"","alt":"Dog who checks Arthur’s hand","bbox":[755,182,165,226]}
+{"kind":"notes","id":"nt/e947gf","slide":6,"text":"A lion found him beside a broken branch. A bear and a dog came over. “Is he alive?” the bear asked. The dog touched Arthur’s hand with his nose. His fingers moved. “Help me turn him over,” the dog said. They carried Arthur under the trees. He tried to stand, but his legs gave out.\n\nImages: reused from the supplied group PowerPoint. Original labels identify Canva, Socosto, and Tsukatte."}
+{"kind":"slide","id":"sl/1k3a5u","slide":7,"title":"Part 2","textShapes":4}
+{"kind":"textbox","id":"sh/gb6dwbqx","slide":7,"text":"Part 2","textPreview":"Part 2","textChars":6,"textLines":1,"bbox":[42,25,830,27]}
+{"kind":"textbox","id":"sh/faxc3qpc","slide":7,"text":"A place to stay","textPreview":"A place to stay","textChars":15,"textLines":1,"bbox":[40,65,880,64]}
+{"kind":"textbox","id":"sh/u9obul8r","slide":7,"text":"The bear built a shelter. The lion brought food. The dog stayed close.","textPreview":"The bear built a shelter. The lion brought food. The dog stayed close.","textChars":70,"textLines":1,"bbox":[42,177,330,210]}
+{"kind":"textbox","id":"sh/4zqd0vqt","slide":7,"text":"7","textPreview":"7","textChars":1,"textLines":1,"bbox":[880,505,40,23]}
+{"kind":"image","id":"im/0f6do7a9","slide":7,"name":"","alt":"A place to stay","bbox":[400,140,525,350]}
+{"kind":"notes","id":"nt/1k3a5u","slide":7,"text":"“Easy,” the bear said. “You’re staying here tonight.” One night turned into many. The bear built a shelter from branches and leaves. The lion brought food, even when it meant eating less himself. The dog slept beside Arthur and kept him warm. They had never seen anyone like him, but they helped anyway.\n\nIllustration: AI-generated for this presentation."}
+{"kind":"slide","id":"sl/3yi0u5","slide":8,"title":"Part 2","textShapes":4}
+{"kind":"textbox","id":"sh/jy1s3exs","slide":8,"text":"Part 2","textPreview":"Part 2","textChars":6,"textLines":1,"bbox":[42,25,830,27]}
+{"kind":"textbox","id":"sh/4zutcjyd","slide":8,"text":"Living together","textPreview":"Living together","textChars":15,"textLines":1,"bbox":[40,65,880,64]}
+{"kind":"textbox","id":"sh/503a5ofi","slide":8,"text":"Arthur got stronger and began helping his friends.","textPreview":"Arthur got stronger and began helping his friends.","textChars":50,"textLines":1,"bbox":[42,177,330,210]}
+{"kind":"textbox","id":"sh/vu1szuxg","slide":8,"text":"8","textPreview":"8","textChars":1,"textLines":1,"bbox":[880,505,40,23]}
+{"kind":"image","id":"im/ze1cvilk","slide":8,"name":"","alt":"Living together","bbox":[425,145,490,330]}
+{"kind":"notes","id":"nt/3yi0u5","slide":8,"text":"Over the next few years, Arthur got stronger. He helped fix the shelter and carried food for his friends. Still, his memory never came back. One evening, the dog spotted a golden tree in the distance. The lion remembered a story about its fruit. It could bring back something someone had lost.\n\nImage: reused from the supplied group PowerPoint."}
+{"kind":"slide","id":"sl/d2wef6","slide":9,"title":"Part 2","textShapes":4}
+{"kind":"textbox","id":"sh/szydczmx","slide":9,"text":"Part 2","textPreview":"Part 2","textChars":6,"textLines":1,"bbox":[42,25,830,27]}
+{"kind":"textbox","id":"sh/7ypwju5c","slide":9,"text":"The journey to the tree","textPreview":"The journey to the tree","textChars":23,"textLines":1,"bbox":[40,65,880,64]}
+{"kind":"textbox","id":"sh/6xgva94r","slide":9,"text":"They could only reach the tree by helping each other.","textPreview":"They could only reach the tree by helping each other.","textChars":53,"textLines":1,"bbox":[42,177,330,210]}
+{"kind":"textbox","id":"sh/kvyd8zm1","slide":9,"text":"9","textPreview":"9","textChars":1,"textLines":1,"bbox":[880,505,40,23]}
+{"kind":"image","id":"im/0vyd8vex","slide":9,"name":"","alt":"The journey to the tree","bbox":[400,140,525,350]}
+{"kind":"notes","id":"nt/d2wef6","slide":9,"text":"The four friends set out the next morning. The lion found a path through the rocks. At a wide gap, the bear laid down a thick branch. Arthur held it while the others crossed. The dog followed the fruit’s sweet smell through the clouds. After three days, they finally reached the tree.\n\nIllustration: AI-generated for this presentation."}
+{"kind":"slide","id":"sl/yk8qub","slide":10,"title":"Part 3","textShapes":4}
+{"kind":"textbox","id":"sh/mhov6hgb","slide":10,"text":"Part 3","textPreview":"Part 3","textChars":6,"textLines":1,"bbox":[42,25,830,27]}
+{"kind":"textbox","id":"sh/9kfu1wfm","slide":10,"text":"The golden fruit","textPreview":"The golden fruit","textChars":16,"textLines":1,"bbox":[40,65,880,64]}
+{"kind":"textbox","id":"sh/8j6d8ry1","slide":10,"text":"One bite brought Arthur’s memory and power back.","textPreview":"One bite brought Arthur’s memory and power back.","textChars":48,"textLines":1,"bbox":[42,177,330,210]}
+{"kind":"textbox","id":"sh/ulova1g7","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[880,505,40,23]}
+{"kind":"image","id":"im/elw36d0r","slide":10,"name":"","alt":"The golden fruit","bbox":[400,140,525,350]}
+{"kind":"notes","id":"nt/yk8qub","slide":10,"text":"The fruit looked like an apple covered in gold. Arthur picked one and took a bite. Heat spread through his body. Suddenly, he remembered the fight, his home, and his son. Light shone from his hands as his power returned. Far away, the flame Varek had stolen grew smaller until it disappeared.\n\nIllustration: AI-generated for this presentation."}
+{"kind":"slide","id":"sl/midrys","slide":11,"title":"Part 3","textShapes":4}
+{"kind":"textbox","id":"sh/ud8netkv","slide":11,"text":"Part 3","textPreview":"Part 3","textChars":6,"textLines":1,"bbox":[42,25,830,27]}
+{"kind":"textbox","id":"sh/hgzmpoj6","slide":11,"text":"Arthur remembers","textPreview":"Arthur remembers","textChars":16,"textLines":1,"bbox":[40,65,880,64]}
+{"kind":"textbox","id":"sh/gfq5g321","slide":11,"text":"Arthur could go home, but he wanted to help his friends first.","textPreview":"Arthur could go home, but he wanted to help his friends first.","textChars":62,"textLines":1,"bbox":[42,177,330,210]}
+{"kind":"textbox","id":"sh/2h8nitkr","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[880,505,40,23]}
+{"kind":"image","id":"im/ydwzqdcb","slide":11,"name":"","alt":"Arthur remembers","bbox":[425,145,490,330]}
+{"kind":"notes","id":"nt/midrys","slide":11,"text":"“I know who I am,” Arthur whispered. He could finally go home. Then he noticed the cuts on the bear’s paws. All his friends looked tired. They had come this far just to help him. Arthur looked at the empty space around their land. “You need a bigger home,” he said.\n\nImage: reused from the supplied group PowerPoint."}
+{"kind":"slide","id":"sl/b88eb7","slide":12,"title":"Part 3","textShapes":4}
+{"kind":"textbox","id":"sh/8z2lkn2l","slide":12,"text":"Part 3","textPreview":"Part 3","textChars":6,"textLines":1,"bbox":[42,25,830,27]}
+{"kind":"textbox","id":"sh/7y9kril0","slide":12,"text":"The new Earth","textPreview":"The new Earth","textChars":13,"textLines":1,"bbox":[40,65,880,64]}
+{"kind":"textbox","id":"sh/6x03idkf","slide":12,"text":"Arthur made land, rivers, and forests for the animals.","textPreview":"Arthur made land, rivers, and forests for the animals.","textChars":54,"textLines":1,"bbox":[42,177,330,210]}
+{"kind":"textbox","id":"sh/kvilg32p","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[880,505,40,23]}
+{"kind":"image","id":"im/crqh87q9","slide":12,"name":"","alt":"The new Earth","bbox":[400,140,525,350]}
+{"kind":"notes","id":"nt/b88eb7","slide":12,"text":"He knelt and pressed his hands against the ground. The land spread out until no one could see its edges. Mountains rose, and water ran from his fingers into rivers and seas. Grass and trees grew around them. Then he lifted the sky higher, giving the trees room to grow. The animals finally had a safe home.\n\nIllustration: AI-generated for this presentation."}
+{"kind":"slide","id":"sl/pfdxxi","slide":13,"title":"Part 3","textShapes":4}
+{"kind":"textbox","id":"sh/d0zq18re","slide":13,"text":"Part 3","textPreview":"Part 3","textChars":6,"textLines":1,"bbox":[42,25,830,27]}
+{"kind":"textbox","id":"sh/qx876d83","slide":13,"text":"The first human","textPreview":"The first human","textChars":15,"textLines":1,"bbox":[40,65,880,64]}
+{"kind":"textbox","id":"sh/ryhozi9o","slide":13,"text":"Arthur sent his son to live with the animals.","textPreview":"Arthur sent his son to live with the animals.","textChars":45,"textLines":1,"bbox":[42,177,330,210]}
+{"kind":"textbox","id":"sh/5wf6x8ri","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[880,505,40,23]}
+{"kind":"image","id":"im/1onq5sf6","slide":13,"name":"","alt":"The first human","bbox":[400,140,525,350]}
+{"kind":"notes","id":"nt/pfdxxi","slide":13,"text":"Arthur returned to the sky. Later, he brought his son down to Earth and gave him a human body without any magic. “How will I live here?” his son asked. “You’ll have to learn,” Arthur said. “They taught me.” His son became the first human, and the animals welcomed him.\n\nIllustration: AI-generated for this presentation."}
+{"kind":"slide","id":"sl/whp742","slide":14,"title":"Part 3","textShapes":4}
+{"kind":"textbox","id":"sh/m1kzexsv","slide":14,"text":"Part 3","textPreview":"Part 3","textChars":6,"textLines":1,"bbox":[42,25,830,27]}
+{"kind":"textbox","id":"sh/9obypsb6","slide":14,"text":"Room for a friend","textPreview":"Room for a friend","textChars":17,"textLines":1,"bbox":[40,65,880,64]}
+{"kind":"textbox","id":"sh/8n2hgnal","slide":14,"text":"The animals helped the first human. He helped them too.","textPreview":"The animals helped the first human. He helped them too.","textChars":55,"textLines":1,"bbox":[42,177,330,210]}
+{"kind":"textbox","id":"sh/yx0zadsj","slide":14,"text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[880,505,40,23]}
+{"kind":"image","id":"im/ul0n2d8v","slide":14,"name":"","alt":"Room for a friend","bbox":[425,145,490,330]}
+{"kind":"notes","id":"nt/whp742","slide":14,"text":"The lion showed him where to find food. The bear helped him build a shelter, and the dog stayed with him at night. One cold evening, he saw the dog shaking outside the doorway. He moved his bed over and called the dog inside. There was enough room for both of them.\n\nImage: reused from the supplied group PowerPoint."}

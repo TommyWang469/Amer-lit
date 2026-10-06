@@ -1,0 +1,30 @@
+{
+  "mode": "built-in image_gen",
+  "style": "One 3:2 simple friendly classroom cartoon illustration per scene, dark outlines, soft colors, no text or watermark.",
+  "scenes": [
+    [
+      "world",
+      "A narrow floating island of grass, rocks and a few trees surrounded by fluffy clouds and empty blue sky. A friendly lion with orange mane, a brown bear and a small tan dog stand on the island. Far above on a cloud stands Arthur, a young adult sky god with short dark hair, simple blue tunic and small golden flame glowing on his chest."
+    ],
+    [
+      "shelter",
+      "Arthur, young adult with short dark hair wearing a simple blue tunic with no glowing flame, rests in a small branch-and-leaf shelter on a grassy floating island among clouds. Friendly brown bear adds branches to roof, lion with orange mane brings fruit in mouth, small tan dog sits protectively beside Arthur. Warm caring scene."
+    ],
+    [
+      "journey",
+      "Arthur, young adult with short dark hair in a simple blue tunic with no flame, crosses a wooden branch bridge over a gap in a rocky floating island among clouds. Friendly brown bear holds branch steady, lion with orange mane leads, small tan dog sniffs trail. All four full bodies visible, safe adventurous mood."
+    ],
+    [
+      "fruit",
+      "Arthur, young adult with short dark hair wearing simple blue tunic, takes one bite from a glowing golden apple beneath a small magical golden-fruit tree. Golden light gently returns to his chest and hands. Friendly lion with orange mane, brown bear and small tan dog watch beside him. Floating island among clouds."
+    ],
+    [
+      "earth",
+      "Arthur, young adult sky god with short dark hair and simple blue tunic, kneels with glowing golden hands against the ground. A fresh green world spreads in front of him with hills, mountains, rivers and trees. Lion with orange mane, brown bear and tan dog watch. Clouds high above, welcoming wide landscape."
+    ],
+    [
+      "son",
+      "Arthur, young adult sky god with short dark hair and simple blue tunic, introduces his teenage son with short dark hair and simple green tunic to a friendly lion with orange mane, brown bear and small tan dog. They stand beside a river on the new green Earth, trees and hills behind them. Son has no magic, Arthur's hands have a faint gold glow."
+    ]
+  ]
+}
