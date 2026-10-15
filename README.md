@@ -2,6 +2,14 @@
 
 Class assignments, source pictures, and completed documents. Follow [WRITING_STYLE.md](WRITING_STYLE.md) when helping with writing.
 
+## The Man to Send Rainclouds
+
+Reviewed October 14, 2026. All six new photos were read; the original HEIC files remain at the repository root.
+
+- [Completed answers and story summary - PDF](assignments/the-man-to-send-rainclouds/final/The-Man-to-Send-Rainclouds-Answers-and-Summary.pdf): all five true/false items, seven discussion questions, the First Response, and an adaptable opening reflection.
+- [Editable answers and summary](assignments/the-man-to-send-rainclouds/notes/Answers-and-Summary.md).
+- [Six converted PNG sources](assignments/the-man-to-send-rainclouds/sources/png) and [source/coverage notes](assignments/the-man-to-send-rainclouds/notes/Source-and-Coverage-Notes.md).
+
 ## Allegiance to Gratitude
 
 Reviewed October 5, 2026. All 11 original HEIC photos are preserved.
