@@ -2,6 +2,8 @@
 
 Use this guide when helping with my American literature writing. My teacher will read this work, so keep the language natural, clear, and appropriate for a high school student.
 
+For analytical or comparative essays, also read [ESSAY_WRITING_GUIDE.md](ESSAY_WRITING_GUIDE.md). It captures my voice, the structure of my work-and-leisure essay, and my teacher's feedback about integrating evidence and developing commentary. The storytelling advice below applies when the assignment involves creative writing.
+
 ## Voice and word choice
 
 - Use everyday words that a high school student would understand and actually use. Keep a precise literary term when the assignment needs it.

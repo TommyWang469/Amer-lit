@@ -2,6 +2,8 @@
 
 Class assignments, source pictures, and completed documents. Follow [WRITING_STYLE.md](WRITING_STYLE.md) when helping with writing.
 
+For literary analysis and comparative essays, also use [ESSAY_WRITING_GUIDE.md](ESSAY_WRITING_GUIDE.md).
+
 ## Work and Leisure Essay
 
 - [Original draft followed by the revised version - PDF](assignments/work-and-leisure/final/Work-and-Leisure-Original-and-Revised.pdf): the latest pasted draft on pages 1-2 and the assistant revision on pages 3-4, with source links.
