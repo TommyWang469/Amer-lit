@@ -1,0 +1,15 @@
+{
+  "pages": 4,
+  "original_pages": [
+    1,
+    2
+  ],
+  "revised_pages": [
+    3,
+    4
+  ],
+  "original_paragraphs_verified": 4,
+  "revised_paragraphs_verified": 4,
+  "clickable_source_links": 3,
+  "visual_review": "All four rendered pages inspected; readable, no clipping or missing glyphs."
+}

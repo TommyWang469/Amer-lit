@@ -2,6 +2,11 @@
 
 Class assignments, source pictures, and completed documents. Follow [WRITING_STYLE.md](WRITING_STYLE.md) when helping with writing.
 
+## Work and Leisure Essay
+
+- [Original draft followed by the revised version - PDF](assignments/work-and-leisure/final/Work-and-Leisure-Original-and-Revised.pdf): the latest pasted draft on pages 1-2 and the assistant revision on pages 3-4, with source links.
+- [Original text](assignments/work-and-leisure/notes/original-latest.txt), [editable revision](assignments/work-and-leisure/notes/revised.md), and [source notes](assignments/work-and-leisure/notes/sources.md).
+
 ## The Man to Send Rainclouds
 
 Reviewed October 14, 2026. All six new photos were read; the original HEIC files remain at the repository root.
