@@ -4,10 +4,10 @@ Read visually from all four converted PNG images. MarkItDown was attempted first
 
 ## Images
 
-- `sources/png/IMG_7293.png`: handwritten plot outline and animal roles.
-- `sources/png/IMG_7294.png`: assignment requirements, mythology functions, and archetype choices.
-- `sources/png/IMG_7295.png`: handwritten Arthur story plan and narrative writing standards.
-- `sources/png/IMG_7296.png`: grading rubric and submission requirements.
+- `../sources/png/IMG_7293.png`: handwritten plot outline and animal roles.
+- `../sources/png/IMG_7294.png`: assignment requirements, mythology functions, and archetype choices.
+- `../sources/png/IMG_7295.png`: handwritten Arthur story plan and narrative writing standards.
+- `../sources/png/IMG_7296.png`: grading rubric and submission requirements.
 
 The four converted PNGs are retained here. The original HEIC files for this assignment were not present in the repository during cleanup.
 

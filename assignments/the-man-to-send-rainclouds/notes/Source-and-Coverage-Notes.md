@@ -1,6 +1,6 @@
 # Source and coverage notes
 
-Reviewed all six photos added October 14, 2026. The original HEIC files remain at the repository root; converted PNGs are retained in `../sources/png/`.
+Reviewed all six photos added October 14, 2026. Converted PNGs are retained in `../sources/png/`. Storage check on October 15: the original HEIC files were not present in this checkout before repository cleanup; the earlier verification below describes the files available when the assignment was created.
 
 | Photo | Printed page | Contents |
 | --- | --- | --- |
@@ -33,4 +33,4 @@ Reviewed all six photos added October 14, 2026. The original HEIC files remain a
 
 MarkItDown could not convert the HEIC source because `ffprobe` was missing. Its PNG conversion produced no useful text. All six PNGs were therefore read visually. Answers use only the supplied pages; no outside edition was substituted.
 
-The final three-page PDF was rendered, and every page was visually inspected for legibility, clipping, and page flow. Coverage checks confirmed all 12 numbered items plus the First Response and opening reflection. All six original HEIC files remain present; all six retained PNGs are valid and match their converted copies. The new README links were checked.
+At creation, the final three-page PDF was rendered, and every page was visually inspected for legibility, clipping, and page flow. Coverage checks confirmed all 12 numbered items plus the First Response and opening reflection. That verification recorded all six original HEIC files present and all six retained PNGs valid and matching their converted copies. The README links were checked. See the storage note above for the current checkout.

@@ -1,44 +1,45 @@
 # American Literature
 
-Class assignments, source pictures, and completed documents. Follow [WRITING_STYLE.md](WRITING_STYLE.md) when helping with writing.
+Assignments, source pictures, finished documents, and reusable writing guidance.
 
-For literary analysis and comparative essays, also use [ESSAY_WRITING_GUIDE.md](ESSAY_WRITING_GUIDE.md).
+## Future writing prompts
+
+Start with [writing/README.md](writing/README.md). It links the user's voice sample, essay structure, commentary methods, and teacher feedback. [AGENTS.md](AGENTS.md) directs future assistants to read these materials before drafting.
+
+- [Writing style](writing/WRITING_STYLE.md): the user's voice and light grammar editing preference.
+- [Essay structure and workflow](writing/ESSAY_WRITING_GUIDE.md): a focused argument, the preferred four-paragraph comparison, and a conclusion connecting to the world and explaining why it matters.
+- [Strong commentary](writing/LITERARY_COMMENTARY_GUIDE.md): researched high-school benchmarks, examples, and checks connecting evidence to topic sentences.
 
 ## Work and Leisure Essay
 
-- [Original draft followed by the revised version - PDF](assignments/work-and-leisure/final/Work-and-Leisure-Original-and-Revised.pdf): the latest pasted draft on pages 1-2 and the assistant revision on pages 3-4, with source links.
-- [Original text](assignments/work-and-leisure/notes/original-latest.txt), [editable revision](assignments/work-and-leisure/notes/revised.md), and [source notes](assignments/work-and-leisure/notes/sources.md).
+- [Original draft followed by the revision - PDF](assignments/work-and-leisure/final/Work-and-Leisure-Original-and-Revised.pdf): original on pages 1-2; assistant revision on pages 3-4.
+- [Initial user draft](assignments/work-and-leisure/notes/original-initial.txt), [later user-supplied draft](assignments/work-and-leisure/notes/original-latest.txt), [editable revision](assignments/work-and-leisure/notes/revised.md), and [sources](assignments/work-and-leisure/notes/sources.md).
 
 ## The Man to Send Rainclouds
 
-Reviewed October 14, 2026. All six new photos were read; the original HEIC files remain at the repository root.
+- [Answers and story summary - PDF](assignments/the-man-to-send-rainclouds/final/The-Man-to-Send-Rainclouds-Answers-and-Summary.pdf): five Checking Up items, seven discussion questions, the First Response, and an adaptable opening reflection.
+- [Editable answers](assignments/the-man-to-send-rainclouds/notes/Answers-and-Summary.md), [source notes](assignments/the-man-to-send-rainclouds/notes/Source-and-Coverage-Notes.md), and [six source PNGs](assignments/the-man-to-send-rainclouds/sources/png).
 
-- [Completed answers and story summary - PDF](assignments/the-man-to-send-rainclouds/final/The-Man-to-Send-Rainclouds-Answers-and-Summary.pdf): all five true/false items, seven discussion questions, the First Response, and an adaptable opening reflection.
-- [Editable answers and summary](assignments/the-man-to-send-rainclouds/notes/Answers-and-Summary.md).
-- [Six converted PNG sources](assignments/the-man-to-send-rainclouds/sources/png) and [source/coverage notes](assignments/the-man-to-send-rainclouds/notes/Source-and-Coverage-Notes.md).
+## The Soft-Hearted Sioux
+
+- [Answers and story summary - PDF](assignments/the-soft-hearted-sioux/final/The-Soft-Hearted-Sioux-Answers-and-Summary.pdf).
+- [Editable answers](assignments/the-soft-hearted-sioux/notes/Answers-and-Summary.md) and [five source PNGs](assignments/the-soft-hearted-sioux/sources/png).
 
 ## Allegiance to Gratitude
 
-Reviewed October 5, 2026. All 11 original HEIC photos are preserved.
-
-- [Annotated original pages - single PDF](assignments/allegiance-to-gratitude/final/Allegiance-to-Gratitude-Annotated-Photos.pdf): all 11 photos, with highlights, vocabulary circles, and numbered notes.
-- [Answers to all six questions - PDF](assignments/allegiance-to-gratitude/final/Allegiance-to-Gratitude-Answers.pdf).
-- [Annotated PNG pages](assignments/allegiance-to-gratitude/annotations/png): filenames match their source photos.
-- [Original HEIC photos](assignments/allegiance-to-gratitude/sources/heic) and [converted PNGs](assignments/allegiance-to-gratitude/sources/png).
-- [Editable answers](assignments/allegiance-to-gratitude/notes/Allegiance-to-Gratitude-Answers.md) and [annotation notes](assignments/allegiance-to-gratitude/notes/Allegiance-to-Gratitude-Annotations.md).
-- [Earlier PDF versions](assignments/allegiance-to-gratitude/archive): kept for reference; use the PDFs in `final` for the latest requested format.
-
-The personal-response answers are samples to adapt to your own views.
+- [Annotated source photos - PDF](assignments/allegiance-to-gratitude/final/Allegiance-to-Gratitude-Annotated-Photos.pdf) and [worksheet answers - PDF](assignments/allegiance-to-gratitude/final/Allegiance-to-Gratitude-Answers.pdf).
+- [Editable answers](assignments/allegiance-to-gratitude/notes/Allegiance-to-Gratitude-Answers.md), [annotation notes](assignments/allegiance-to-gratitude/notes/Allegiance-to-Gratitude-Annotations.md), [11 source PNGs](assignments/allegiance-to-gratitude/sources/png), and [annotated PNGs](assignments/allegiance-to-gratitude/annotations/png).
 
 ## Creation Myth
 
 - [Paragraph-format Word document](assignments/creation-myth/documents/Arthur-Creation-Myth-Paragraphs.docx).
-- [Other Word version](assignments/creation-myth/documents/Arthur-Creation-Myth.docx).
-- [Story draft](assignments/creation-myth/myth-story.md) and [assignment/source notes](assignments/creation-myth/assignment-notes.md).
-- [Four source pictures](assignments/creation-myth/sources/png).
+- [Full-text presentation](assignments/creation-myth/presentations/Arthurs-Journey-Full-Text.pptx).
+- [Editable story](assignments/creation-myth/notes/myth-story.md), [assignment notes](assignments/creation-myth/notes/assignment-notes.md), [four source PNGs](assignments/creation-myth/sources/png), and [presentation artwork](assignments/creation-myth/sources/artwork).
 
-The existing draft's authorship and assignment-process notes are retained with the assignment.
+The assignment notes distinguish supplied ideas from assistant additions and record the assignment's authorship requirements. Personal-response samples in other assignments should likewise be adapted to the user's own views.
 
 ## Organization
 
-Each assignment lives under `assignments/`. Keep original materials in `sources`, requested deliverables in `final` or `documents`, editable supporting material in `notes`, and superseded deliverables in `archive`. Keep reusable writing guidance at the repository root.
+Keep reusable guides together in `writing/`. Within each assignment, keep source material in `sources/`, editable Markdown and provenance in `notes/`, and finished documents in `final/`, `documents/`, or `presentations/`. Temporary builds, previews, caches, and dependency links do not belong among retained materials.
+
+Source PNGs present in this checkout have been retained. Original HEIC files were not present before the October 15 cleanup; do not infer that they are available from older notes.

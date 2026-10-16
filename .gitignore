@@ -3,3 +3,9 @@
 
 # Local code-navigation snapshot
 codedb.snapshot
+
+# Temporary document builds, previews, and local dependencies
+tmp/
+outputs/
+.myth-build/
+node_modules/
