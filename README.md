@@ -15,6 +15,11 @@ Start with [writing/README.md](writing/README.md). It links the user's voice sam
 - [Original draft followed by the revision - PDF](assignments/work-and-leisure/final/Work-and-Leisure-Original-and-Revised.pdf): original on pages 1-2; assistant revision on pages 3-4.
 - [Initial user draft](assignments/work-and-leisure/notes/original-initial.txt), [later user-supplied draft](assignments/work-and-leisure/notes/original-latest.txt), [editable revision](assignments/work-and-leisure/notes/revised.md), and [sources](assignments/work-and-leisure/notes/sources.md).
 
+## Self-Reliance
+
+- [Completed answers - PDF](assignments/self-reliance/final/Self-Reliance-Answers.pdf): all seven questions from the two-page Emerson excerpt worksheet.
+- [Editable answers](assignments/self-reliance/notes/Answers.md), [source and coverage notes](assignments/self-reliance/notes/Source-and-Coverage-Notes.md), and [source photos](assignments/self-reliance/sources/png).
+
 ## The Man to Send Rainclouds
 
 - [Answers and story summary - PDF](assignments/the-man-to-send-rainclouds/final/The-Man-to-Send-Rainclouds-Answers-and-Summary.pdf): five Checking Up items, seven discussion questions, the First Response, and an adaptable opening reflection.

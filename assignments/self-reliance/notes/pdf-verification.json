@@ -1,0 +1,24 @@
+{
+  "source_photos_sha256": {
+    "IMG_7395.HEIC": "4c9d2c1b2255b7f03169c64e2b0ce86c49ec8240fea2089628bad8ff16a5d0b9",
+    "IMG_7396.HEIC": "7f62d42e0c5c1657a0c5bc7006fcbd601fedb500c4f5174f9fb21f3e7ae83a90"
+  },
+  "original_photos_preserved_byte_for_byte": true,
+  "questions_completed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "pdf_pages": 2,
+  "all_answer_text_present": true,
+  "rendered_pages_visually_checked": [
+    1,
+    2
+  ],
+  "visual_check": "Both pages readable; no clipped text, overlap, or missing answers.",
+  "pdf_sha256": "7a206e4020396a95db6b7b8c7102bef48cddc2796b92e124d9289b7aac8e2955"
+}
