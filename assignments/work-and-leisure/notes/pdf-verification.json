@@ -1,4 +1,5 @@
 {
+  "updated": "2026-10-18",
   "pages": 4,
   "original_pages": [
     1,
@@ -11,5 +12,12 @@
   "original_paragraphs_verified": 4,
   "revised_paragraphs_verified": 4,
   "clickable_source_links": 3,
+  "original_page_content_streams_unchanged": true,
+  "unchanged_revised_paragraphs": [
+    "introduction",
+    "first body paragraph",
+    "conclusion"
+  ],
+  "updated_paragraph": "Second body paragraph replaced with exact user-supplied wording; pasted line wrapping normalized.",
   "visual_review": "All four rendered pages inspected; readable, no clipping or missing glyphs."
 }
